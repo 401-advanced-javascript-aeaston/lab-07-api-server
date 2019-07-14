@@ -6,7 +6,22 @@
 
 ### Links and Resources
 * [submission PR]()
-* [travis]
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-07-api-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-07-api-server)
+
+### Modules
+#### `post`
+##### Exported Values and Methods
+
+
+
+#### `post`
+##### Exported Values and Methods
+
+
+
+#### `put`
+
+
 
 ### Modules
 #### `get`
