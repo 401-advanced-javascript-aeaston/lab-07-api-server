@@ -27,7 +27,11 @@ app.get('/categories', (req, res, next) => {
 
 // Route to Get One Category
 
+app.get()
+
 // Route to Create a Category
+
+app.post()
 
 // Route to Delete a Category
 
